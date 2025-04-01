@@ -1,0 +1,10 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+sqlalchemy==1.4.48
+graphene==2.1.9
+graphql-core==2.3.2
+graphql-relay==2.0.1
+graphene-sqlalchemy==2.3.0
+pydantic==1.10.7
+pytest==7.3.1
+pandas==2.0.1
